@@ -56,22 +56,27 @@ I'm a Software Engineer with 4 years of experience designing and developing scal
 
 ### 🚀 Featured Projects
 
+#### 🥇 Flagship Project — RAG-Based University Academic Advising Assistant
 
-#### 🎓 RAG-Based University Academic Advising Assistant
+**Master's Capstone Project | California State University, Dominguez Hills**
 
-An AI-powered academic advising assistant designed to answer university-related questions using Retrieval-Augmented Generation (RAG).
+An AI-powered academic advising assistant designed to provide accurate, context-aware answers to university-related questions using Retrieval-Augmented Generation (RAG).
 
 **Tech Stack:** Python, LangChain, FAISS, LLMs, RAG
 
 **Key Highlights:**
-- Developed a retrieval-based question-answering system
-- Integrated university academic information into a searchable knowledge base
-- Evaluated baseline LLM responses against RAG-generated responses
-- Improved answer accuracy and reduced hallucinations through retrieval-grounded responses
+- Built an AI-powered question-answering system using university academic information.
+- Implemented retrieval-grounded responses to improve answer reliability.
+- Evaluated baseline LLM performance against RAG-generated responses.
+- Measured answer accuracy, relevance, and hallucination rates.
+- Designed a modular architecture for document retrieval and response generation.
 
-*Repository link coming soon.*
+**Status:** Final development and documentation in progress.
+
+*Source code is currently private. Public repository link coming soon.*
 
 ---
+
 ### 📫 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saicharanlagishetti@gmail.com)
