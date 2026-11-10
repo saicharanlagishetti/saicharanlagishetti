@@ -54,4 +54,25 @@ I'm a Software Engineer with 4 years of experience designing and developing scal
 
 ### 📫 Connect With Me
 
+---
+
+### 🚀 Featured Projects
+
+#### 🎓 RAG-Based University Academic Advising Assistant
+
+An AI-powered academic advising assistant designed to answer university-related questions using Retrieval-Augmented Generation (RAG).
+
+**Tech Stack:** Python, LangChain, FAISS, LLMs, RAG
+
+**Key Highlights:**
+- Developed a retrieval-based question-answering system
+- Integrated university academic information into a searchable knowledge base
+- Evaluated baseline LLM responses against RAG-generated responses
+- Improved answer accuracy and reduced hallucinations through retrieval-grounded responses
+
+*Repository link coming soon.*
+
+---
+
+
 - GitHub: https://github.com/saicharanlagishetti
