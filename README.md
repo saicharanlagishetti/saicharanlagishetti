@@ -1,4 +1,4 @@
-# Hi there, I'm Sai Charan 👋
+# Hi there, I'm Saicharan Lagishetti 👋
 
 ### Software Engineer | Java | Python | React | Generative AI
 
