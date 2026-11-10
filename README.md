@@ -52,11 +52,16 @@ I'm a Software Engineer with 4 years of experience designing and developing scal
 ![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge)
 
 
+
 ### 📫 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saicharanlagishetti@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saicharanlagishetti)
 
 ---
 
 ### 🚀 Featured Projects
+
 
 #### 🎓 RAG-Based University Academic Advising Assistant
 
