@@ -6,7 +6,7 @@ I'm a Full Stack Engineer with 4 years of experience building production web app
 
 🎓 MS in Computer Science, California State University, Dominguez Hills (Expected Dec 2026)
 
-💼 Experience: ICICI Bank · BSIT Software Services · Graduate Research Assistant at CSUDH
+💼 Experience: ICICI Bank · BSIT Software Services Private Limited · Graduate Research Assistant at CSUDH
 
 💻 Build features end to end: React/TypeScript front ends, Java Spring Boot and Python FastAPI services, and PostgreSQL, Redis, and Kafka underneath
 
